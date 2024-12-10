@@ -1,1 +1,0 @@
-this is the reactive calculator website.it is very interactive and quick problem solving.
